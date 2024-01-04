@@ -1,0 +1,24 @@
+{
+  "name": "nodewox-devtools-server",
+  "version": "0.1.0",
+  "description": "Minimal devtools server for Nodewox",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build"
+  },
+  "author": "John Ray <996351336@qq.com>",
+  "license": "BSD",
+  "repository": "github:pumingjohnray/nodewox-devtools-server",
+  "keywords": ["nodewox", "cdp", "devtools"],
+  "dependencies": {},
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "prettier": "^2.8.4",
+    "typescript": "^4.9.5",
+    "vite": "^4.1.4"
+  }
+}
