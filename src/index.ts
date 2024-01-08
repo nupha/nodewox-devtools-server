@@ -1,3 +1,6 @@
+// keep this line to ensure nodewox dts package is enabled
+import {} from "nodewox";
+
 import { HttpServer, HttpServerWsConnection } from "http";
 import { setupFileService } from "./file-svc";
 import {
