@@ -1,6 +1,6 @@
 {
   "name": "nodewox-devtools-server",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Minimal devtools server for Nodewox",
   "scripts": {
     "dev": "vite",
@@ -8,7 +8,7 @@
   },
   "author": "John Ray <996351336@qq.com>",
   "license": "BSD",
-  "repository": "github:pumingjohnray/nodewox-devtools-server",
+  "repository": "github:nupha/nodewox-devtools-server",
   "keywords": [
     "nodewox",
     "cdp",
